@@ -1,7 +1,7 @@
 # 🚴 Bike Sales Dashboard (Excel)
 
 ## 🖼️ Dashboard
-![Bike Sales dash](excel-bike-sales-dashboard/image/Dashboard.png)
+![BikeSales_Analysis](excel-bike-sales-dashboard/Image/Dashboard.png)
 
 ## 📌 Objective
 Analyze customer demographics, income, and commute patterns to understand what influences bike purchases.
