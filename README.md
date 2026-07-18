@@ -18,7 +18,7 @@ Analyze customer demographics, income, and commute patterns to understand what i
 
 ## 📝 My Learnings
 - Practiced end-to-end Excel workflow: cleaning → pivot tables → dashboard.  
-- Learned to use slicers for interactivity.  
+- Learned to use slicers for interactivity.
 - Improved storytelling with data.
 
 ---
